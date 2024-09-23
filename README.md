@@ -25,5 +25,7 @@ dari sini anda sudah belajar :
 4. dll
 
 Selamat Mencoba
+Salam
 Rachmad Samsul Hidayat, S.Kom
+Jika Bermanfaat bagi anda Traktir Saya Copy Transfer ke Norek BNI : 437582753 a.n Rachmad Sansul Hidayat
 
