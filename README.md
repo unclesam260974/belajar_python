@@ -18,13 +18,12 @@ Selamat Mencoba
 
 File contoh.xls adalah file excel untuk menampung data Absen dengan cara ketika wajah terscan klik enter
 
-Selamat Mencoba
-Rachmad Samsul Hidayat, S.Kom
-
 dari sini anda sudah belajar :
 1. Membuat Tampilan Windows dan menunya
 2. Memanggil antar file python by reff
 3. Membaca file dan save xls 
 4. dll
 
+Selamat Mencoba
+Rachmad Samsul Hidayat, S.Kom
 
